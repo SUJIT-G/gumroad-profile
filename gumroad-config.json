@@ -3,7 +3,7 @@
   "fullName": "Sujit Chowdhury",
   "tagline": "Software Engineer & Indie Creator",
   "bio": "Building OmniToolaZ — premium AI SaaS tools, automation systems, and smart web applications to accelerate business growth.",
-  "avatarUrl": "https://public-files.gumroad.com/ok734pg3al1220a1yyzhefbkg0co",
+  "avatarUrl": "https://public-files.gumroad.com/vh0k44buq2vypht295wzor6yp5sm",
   "accentColor": "#ff90e8",
   "socials": {
     "twitter": "https://twitter.com/sujitwave2",
@@ -20,9 +20,9 @@
   },
   "products": [
     {
-      "id": "qawnbeq",
+      "id": "n9pppu6",
       "name": "SupportAI – AI Customer Support Chatbot",
-      "description": "An AI-powered customer support chatbot tool for automated business communications.",
+      "description": "An AI-powered customer support chatbot built for automated website assistance.",
       "price": "$0+",
       "rating": 5,
       "reviews": 0,
@@ -32,9 +32,9 @@
       "category": "SaaS"
     },
     {
-      "id": "mdaij4k",
+      "id": "9sitfb0",
       "name": "ResumAI – AI Resume Builder SaaS | ATS Friendly Resume Maker",
-      "description": "An ATS-friendly AI resume builder SaaS tool to create professional resumes quickly.",
+      "description": "AI resume builder SaaS tool to create ATS-friendly professional resumes.",
       "price": "$6.25/mo",
       "rating": 5,
       "reviews": 0,
@@ -44,9 +44,9 @@
       "category": "SaaS"
     },
     {
-      "id": "23dtf9t",
+      "id": "rm77vo9",
       "name": "Beauty Salon Business Website Template – Premium Ready-made & Custom Design",
-      "description": "Premium ready-made and customizable website template for beauty salon businesses.",
+      "description": "Premium ready-made and customizable website template for beauty salons.",
       "price": "$18",
       "rating": 5,
       "reviews": 0,
@@ -56,9 +56,9 @@
       "category": "Design"
     },
     {
-      "id": "ep32knt",
+      "id": "beil0y6",
       "name": "Luxury Marquise Halo Ring CAD Design – Diamond Pave Statement Ring STL File",
-      "description": "3D CAD design and STL file for a luxury marquise halo diamond pave statement ring.",
+      "description": "3D printable STL CAD design file for a luxury marquise halo ring.",
       "price": "$8",
       "rating": 5,
       "reviews": 0,
@@ -68,9 +68,9 @@
       "category": "Design"
     },
     {
-      "id": "8by5x0b",
+      "id": "frfxtr1",
       "name": "50+ WhatsApp Automation Messages to Get Clients Fast",
-      "description": "Collection of 50+ automated WhatsApp message scripts to acquire clients fast.",
+      "description": "Collection of 50+ WhatsApp outreach and automation messages to acquire clients.",
       "price": "$1.59",
       "rating": 5,
       "reviews": 0,
@@ -80,21 +80,21 @@
       "category": "Utility"
     },
     {
-      "id": "33qdrzo",
+      "id": "xtwvf6u",
       "name": "StudentOS — Premium Student Productivity Dashboard System",
-      "description": "Premium AI-powered student productivity dashboard system with planner, Pomodoro timer, analytics, and habit tracker.",
+      "description": "Premium AI-powered student productivity dashboard system with planner, Pomodoro timer, and analytics.",
       "price": "$29",
       "rating": 5,
       "reviews": 0,
-      "tag": "Featured",
+      "tag": "Popular",
       "url": "https://sujitwave2.gumroad.com/l/guvdy",
       "image": "https://public-files.gumroad.com/ld2zzon8hlnehqf7hg3lqfdopn8q",
       "category": "Software"
     },
     {
-      "id": "pn24zeq",
+      "id": "g6me0ws",
       "name": "Beauty Salon Business Website – Ready-Made + Customizable Template",
-      "description": "Ready-made and customizable website template for beauty salon businesses.",
+      "description": "A fully responsive, ready-made website template tailored for beauty businesses.",
       "price": "$9",
       "rating": 5,
       "reviews": 0,
@@ -104,9 +104,9 @@
       "category": "Design"
     },
     {
-      "id": "3fwc1s2",
+      "id": "32ufjk2",
       "name": "High-Converting Landing Page Template (Pro) 🚀",
-      "description": "A pro high-converting landing page template designed for maximum conversion.",
+      "description": "Professional high-converting landing page template optimized for lead generation.",
       "price": "$11",
       "rating": 5,
       "reviews": 0,
@@ -116,9 +116,9 @@
       "category": "Design"
     },
     {
-      "id": "5n9smsr",
+      "id": "ork26kg",
       "name": "Grocery AI – Smart Grocery List & Meal Planner (AI Powered)",
-      "description": "AI-powered smart grocery list and meal planner application.",
+      "description": "AI-powered application for generating smart grocery lists and weekly meal plans.",
       "price": "$4.59/mo",
       "rating": 5,
       "reviews": 0,
@@ -128,9 +128,9 @@
       "category": "SaaS"
     },
     {
-      "id": "sciap8k",
+      "id": "7ns0ttk",
       "name": "30-Day Home Workout Challenge (No Equipment Needed)",
-      "description": "A 30-day home workout challenge guide requiring no fitness equipment.",
+      "description": "A comprehensive 30-day home fitness guide requiring zero equipment.",
       "price": "$8.50",
       "rating": 5,
       "reviews": 0,
@@ -140,9 +140,9 @@
       "category": "Ebook"
     },
     {
-      "id": "s7jzwcd",
+      "id": "t2n1k6c",
       "name": "Invoice Generator Pro – Create, Manage & Download Smart Invoices",
-      "description": "Smart invoicing application to easily create, manage, and download professional invoices.",
+      "description": "Smart web app to quickly design, manage, and export professional invoices.",
       "price": "$4.50/mo",
       "rating": 5,
       "reviews": 0,
@@ -152,9 +152,9 @@
       "category": "SaaS"
     },
     {
-      "id": "rh2rwwe",
+      "id": "p0b8o33",
       "name": "Minimalist Daily & Weekly Planner Pack (10 pages)",
-      "description": "A 10-page minimalist daily and weekly planner pack for organizing your tasks.",
+      "description": "10-page printable planner pack designed for daily and weekly task management.",
       "price": "$5",
       "rating": 5,
       "reviews": 0,
