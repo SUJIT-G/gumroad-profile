@@ -170,5 +170,12 @@
     "branch": "main",
     "token": "********",
     "enabled": true
+  },
+  "seo": {
+    "metaTitle": "",
+    "metaDescription": "",
+    "ogImage": "",
+    "ogUrl": "",
+    "twitterCard": "summary_large_image"
   }
 }
